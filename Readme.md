@@ -15,5 +15,5 @@ http://whobot.herokuapp.com/
 
 Purpose: **whobot** will "remember" the skills you give it, can tell you about another Slack team member's skills, and can tell you which other team members know a specific skill:
 
-![help image](public/assets/ss_help.png)
+![help image](assets/ss_help.png)
 
