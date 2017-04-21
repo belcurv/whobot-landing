@@ -11,7 +11,7 @@
 
 _(really just a /slash command)_
 
-http://whobot.herokuapp.com/
+https://belcurv.github.io/whobot-landing/
 
 Purpose: **whobot** will "remember" the skills you give it, can tell you about another Slack team member's skills, and can tell you which other team members know a specific skill:
 
